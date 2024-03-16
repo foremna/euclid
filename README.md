@@ -1,7 +1,5 @@
 # Project "Euclid - Solutions for Projects of Any Complexity"
 
-## Description
-
 The "Euclid" project aims to provide solutions for projects of any complexity. With a focus on responsive design, pixel-perfect implementation, and adherence to coding standards, "Euclid" ensures optimal user experience across various devices and screen sizes.
 
 ## General Technical Requirements
